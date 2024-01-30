@@ -1,71 +1,46 @@
-# login2xplore-microproject
-# A simple Student Enrollment form using JSONPowerDB
-
-This is simple Student Enrollment form which takes user input from html page and saves the data in JPDP and data can be updated if data exist in JPDP.
-
-## Table of contents
- <ol>
- <li> Benefits of using JSONPowerDB
- <li>Release History
- <li>Examples of use
-  <li> </li>
-</ol>
-
-## Benefits of using JSONPowerDB
-<ol>
-<li> Minimum Development Cost
-  <li> Minimum time to market
-  <li> Futuristic Technology
- <li> Minimize total cost of ownership
-</ol>
-
-## Release History Version - 1.0.0 Description - Saving Data in JPDB from HTML form
-
-## Examples of use
-<ol>
-    <li> All RDBMS use-cases
-    <li> Dynamic web applications, mobile, desktop apps
-    <li> Live working HTML templates
-</ol>
-## JSONPOWERDB-MicroProject
+# JSONPOWERDB-MicroProject
 Student Enrollment Form Using JsonPowerDB
 
-JsonPowerDB
+
+
+# JsonPowerDB
 This is a microproject Student Enrollment Form created with JsonPowerDB which will will store data in STUDENT-TABLE relation of SCHOOL-DB database.
 
-About JsonPowerDB:
-• JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality.
+# About JsonPowerDB:
+•	JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. 
 
 JPDB supports and advocates for true serverless and pluggable API development.
 
-Benefits of using JsonPowerDB
-• Simplest way to retrieve data in a JSON format.
+# Benefits of using JsonPowerDB
+•	Simplest way to retrieve data in a JSON format.
 
-• Schema-free, Simple to use, Nimble and In-Memory database.
+•	Schema-free, Simple to use, Nimble and In-Memory database.
 
-• It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+•	It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 
-• It is low level (raw) form of data and is also human readable.
+•	It is low level (raw) form of data and is also human readable.
 
-• It helps developers in faster coding, in-turn reduces development cost.
+•	It helps developers in faster coding, in-turn reduces development cost.
 
-Release History
-• Created index.html for required project
+# Release History
 
-• Wrote index.js
+•	Created index.html for required project
 
-• Synced the input elements with local variables
+•	Wrote index.js
 
-• Implemented CRUD operations through JsonPowerDB
+•	Synced the input elements with local variables
 
-• Used Put method to save data
+•	Implemented CRUD operations through JsonPowerDB
 
-• Used Get method to retrieve the saved data
+•	Used Put method to save data
 
-• Used Update method to change the saved data
+•	Used Get method to retrieve the saved data
 
-• Created database SCHOOL-DB
+•	Used Update method to change the saved data
 
-• Created relation STUDENT_TABLE
+•	Created database SCHOOL-DB
 
-• Added data validation through Js
+•	Created relation STUDENT_TABLE
+
+•	Added data validation through Js
+
