@@ -51,7 +51,4 @@ JPDB supports and advocates for true serverless and pluggable API development.
 
 ![Screenshot 2024-01-30 220633](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/5fae016d-8eb1-4212-a32b-6323d28828a2)
 
-
-![Screenshot 2024-01-30 213110](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/928e1878-8029-4a34-9091-3c506185e6af)
-
-
+![Screenshot 2024-01-30 221200](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/11ce2c95-d414-428c-aff2-eefcb3f72d5e)
