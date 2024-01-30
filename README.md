@@ -22,7 +22,7 @@ JPDB supports and advocates for true serverless and pluggable API development.
 
 •	It helps developers in faster coding, in-turn reduces development cost.
 
-# Release History
+# Release History (Version 0.0.1)
 
 •	Created index.html for required project
 
@@ -43,4 +43,15 @@ JPDB supports and advocates for true serverless and pluggable API development.
 •	Created relation STUDENT_TABLE
 
 •	Added data validation through Js
+
+# Screen Shots
+
+
+![Screenshot 2024-01-30 213233](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/8369a347-215e-45d2-a0a2-66e3776b8a8c)
+
+![Screenshot 2024-01-30 220633](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/5fae016d-8eb1-4212-a32b-6323d28828a2)
+
+
+![Screenshot 2024-01-30 213110](https://github.com/Debayanmondal/login2xplore-microproject/assets/81500329/928e1878-8029-4a34-9091-3c506185e6af)
+
 
